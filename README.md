@@ -1,6 +1,5 @@
-# Clone this repo
-
-
+## Node version
+This project using Node 16
 ## Install package
 npm install
 
